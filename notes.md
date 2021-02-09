@@ -27,3 +27,47 @@
 8. Donde (Where), Pais (Country), Capital (=), Ciudad (City)
 
 
+aaa - a
+beee - b
+ceee - c
+dee - d
+efe - f 
+hee - g 
+ache - h 
+i - i
+hota - j
+ka - k
+ele - l
+elle - ll
+emme - m
+ene - n 
+enne nn
+oh - o
+peh - p
+cu - q
+ere - r
+erre - rr
+esse - s 
+te - t 
+u - u 
+ve - v
+dobleve - w
+equis - x
+igreka - y
+seta - z
+
+----
+Hoy
+Manana
+Ajer
+---
+
+Los Dias: 
+lunes, martes, miercoles, jueves, viernes, sabado, domingo
+
+Los meses:
+enero, febrero, marzo, abril, mayo, junio, julio, agosto, septembrie, octubre, noviembre, diciembre
+
+Las estaciones:
+primavera, verano, otono, invierno
+
