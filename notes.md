@@ -71,3 +71,35 @@ enero, febrero, marzo, abril, mayo, junio, julio, agosto, septembrie, octubre, n
 Las estaciones:
 primavera, verano, otono, invierno
 
+------------------------------------- 2021/02/16
+
+el / la, un / una    --> (m / f) nouns
+los / las, unos / unas --> (m.p / f.p)
+
+Masculin endings:
+-o, -or (color), -ma (el problema), -an (el plan)
+
+Feminin endings:
+-a, -dad (la ciudad), -tad (la libertad), -ion (la region), umbre (la legumbre), -z (la paz)
+
+// Exceptions
+
+el lunes
+el jardin
+el reloj
+el coche
+el cafe
+
+,,,
+
+la salud
+la sangre
+la nube
+la ley
+
+// Plural 
+if noun ends in "a e i o u" add -s at the end
+if noun ends in a consonant or y add -es at the end
+if noun ends in a z transform it into -ces (i.e lapiz --> lapices, pez --> peces)
+if noun end in s and the consonant before doesn't have an accent, stays the same (i.e martes --> martes)
+    otherwise: frances --> franceses, ingles --> ingleses, holandes --> holandeses
