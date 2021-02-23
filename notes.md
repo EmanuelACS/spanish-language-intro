@@ -103,3 +103,33 @@ if noun ends in a consonant or y add -es at the end
 if noun ends in a z transform it into -ces (i.e lapiz --> lapices, pez --> peces)
 if noun end in s and the consonant before doesn't have an accent, stays the same (i.e martes --> martes)
     otherwise: frances --> franceses, ingles --> ingleses, holandes --> holandeses
+
+-------------------------------------------------
+Names that change based on gender: 
+"estudiante"
+un/el estudiante (m), una/la estudiante (f)
+-------------------------------------------------
+QUESTION WORDS:
+
+que         - what                          | que hora es - what time is it                     
+quien       - who                           | quien es tu amigo - who is your friend
+de quien    - whose                         | de quien es el libro - whose is the book
+donde       - where                         | donde esta carmen - where is carmen
+de donde    - where from                    | de donde es peter - where is peter from
+cuando      - when                          | cuando es la cena - when is dinner
+por que     - why                           | por que no estas aqui - why aren't you here
+como        - how                           | como estas - how are you 
+cuanto      - how much                      | cuanto cuesta - how much does it cost
+cual        - which (one) , what (kind)     | cual es tu numero - what is your number
+------------------------------------------------------
+Subject Pronouns: 
+
+yo (pronounces jo)      - I
+tu                      - you (informal)
+usted                   - you (formal)
+el                      - he 
+ella                    - she
+nosotros, nosotras      - we 
+vosotros, vosotras      - you all (informal) 
+ustedes                 - you all (formal)
+ellos, ellas            - they 
