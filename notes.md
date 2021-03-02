@@ -133,3 +133,59 @@ nosotros, nosotras      - we
 vosotros, vosotras      - you all (informal) 
 ustedes                 - you all (formal)
 ellos, ellas            - they 
+
+------------------------------------------------------
+Vocabulary:                 | ANTONYM:
+la paz: peace               | la guerra: war
+los hijos: the children     | los padres: the parents
+el dia: the day             | la noche: the night
+el hombre: the man          | la mujer: the woman
+la salud: the health        | la enfermedad: the sickness 
+rico: rich                  | pobre: poor  
+blanco: white               | negro: black
+lento: slow                 | rapido: fast
+perezoso: lazy              | trabajador: hard worker
+grande: big                 | pequeno: small
+el amigo: friend            | el enemigo: the enemy
+la ciudad: the city         | el campo: the country
+burlon: joker               | serio: serious
+joven: young                | viejo: old  
+inteligente: intelligent    | estupido: stupid (use no inteligente when teacher asks)
+-----------------------------
+TO BE ---- Conjuagted:
+<< SER >> (Use for permanent purposes)
+Yo soy                      |
+Tu eres                     |
+Usted es                    |
+El/Ella es                  |
+Nosotros somos              |
+-vosotros sois- (don't use) |
+Ustedes son                 |
+Ellos/Ellas son             |
+-----------------------
+<< ESTAR >> (Use for temporary purposes)
+Yo estoy 
+Tu estas
+Usted esta
+El/Ella esta
+Nosotros estamos
+-vosotros estais- (don't use)
+Ustedes estan
+Ellos/Ellas esetan
+
+------ Examples >>
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
