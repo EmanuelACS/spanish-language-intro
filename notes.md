@@ -172,13 +172,53 @@ Nosotros estamos
 -vosotros estais- (don't use)
 Ustedes estan
 Ellos/Ellas esetan
+ 
+-------------------------------------------------------> VOCAB
+## A QUE HORA (AT WHAT TIME)
+Es el vuelo                         >> Is the flight
+Es el examen de mitad de termino    >> Is the midterm
+Llega el tren                       >> Is the train arriving
+Es la clase                         >> is the class
+Es la pelicula                      >> Is the movie
+Llegaste                            >> Did you arrive
+Es la cena                          >> Is supper
+Es el partido de futbol             >> Is the soccer game
+Es tu cita con el medico            >> Is your doctor's appointment
+Es la fiesta                        >> Is the party
 
------- Examples >>
+------------------------------------------------------ > TIME < RELOJ (Clock/time)
+## BASICS:
+- la mañana: antes de las doce (12h00)
+- la tarde: después de las doce (12h00)
+- la noche: después de las veinte (20h00)
+- Son las 12 en punto / Es mediodia / Es medianoche
+- Es la una y quince OR Es la una y cuarto  (1/4 = cuarto)
+- Son las cynco y treinta OR Son las cinco y media (1/2 = media)
 
-
+## Examples (P27 book)
+1) 7.10 Son las siete y diez (de la mañana).
+2) 12.40 Es la una menos veinte (de la tarde).
+3) 21.15 Son las nueve y cuarto (de la noche).
+4) 12.00 Son las doce en punto (es mediodia)
+5) 24.00 Son las veinticuatro (de la noche)
+6) 18.30 Son las dieciocho y treinta (de la tarde)
+7) 10.50 Son las diez y cincuenta (de la mañana)
+8) 23.00 Son las veintitreis (de la noche)
+9) 1.25  Es la una y veinticinco (de la mañana)
+10) 8.45 Son las ocho y cuarenta y cinco 
+11) 22.30 Son las diez y treinta (de la noche)
+12) 3.55 Son las tres y cincuento y cinco
+13) 21.30 Son las nueve y treinta (de la noche)
+14) 13.55 Es la una y cincuento y cinco (de la tarde)
+15) 13.30 Es la una y treinta (de la tarde)
+16) 23.25 Son las once y veintycinco (de la noche)
+17) 10.10 Son las diez y diez (de la mañana)
        
-
-
+-----------------------------------------> VOCAB
+Cuanto cuesta   >> how much does it cost
+Cuanto vale     >> how much is its value
+Cuanto es       >> how much is it 
+EX: Cuant es el gato + POR FAVOR (respectuf form)
 
 
 
