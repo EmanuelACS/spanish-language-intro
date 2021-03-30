@@ -221,6 +221,38 @@ Cuanto es       >> how much is it
 EX: Cuant es el gato + POR FAVOR (respectuf form)
 
 
+-----------------------------------------> VERB
+Tener: 
+Yo tengo
+Tu tienes
+Usted tiene
+El/Ella tiene
+Nosotros tenemos
+Uds. tiened
+Ellos/Ellas tienen
+
+-----------------------------------------> ADJECTIVES
+noun + adj (not adj + noun)
+i.e el libro rojo (not el rojo libro)
+
+adj do not change based on f/m (if doesn't end in o/a)
+la chica inteligente
+el chico inteligente
+
+if adj ends in o/a:
+Aburrido/a
+Alto/a
+Bajo/a
+...
+
+but they do change at plural:
+if ends in consonant: add -es
+else: add -s
+-----------------
+las chicas inteligente -s
+los chicos inteligente -s
+las chicas popluar -es
+los chicos pupular -es
 
 
 
